@@ -9,6 +9,7 @@ export default function () {
             <Link to="/">Home</Link>
             <Link to="/about">About</Link>
             <Link to="/profile/1">Profile</Link>
+            <Link to="/non-exist-route">Not Found</Link>
         </div>
     )
 }
